@@ -11,9 +11,7 @@ Jesús Larez
 
 Integrantes:
 
-Juan Arvelaez 28611814
-Luis Salazar  27437042  
-Luis Gonzalez 28600071
+Juan Arvelaez 28611814 Luis Salazar 27437042 Luis Gonzalez 28600071
 
 
 
